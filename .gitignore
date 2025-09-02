@@ -11,3 +11,45 @@ chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/header.bin
 chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/index_metadata.pickle
 chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/length.bin
 chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/link_lists.bin
+
+
+# Vector database
+chroma_db/
+*.db
+*.sqlite
+
+# Uploaded documents
+uploads/
+temp/
+*.pdf
+*.txt
+*.md
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
