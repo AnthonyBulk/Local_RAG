@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pydantic
+python-dotenv
+fastapi
+uvicorn
+sentence-transformers
+rank_bm25
+pypdf
+requests

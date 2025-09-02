@@ -1,0 +1,13 @@
+app_polished_deepconf_ab.py
+app_v1.py
+app_v2.py
+app_v3.py
+app_V4.py
+app_V5.py
+app_V6.py
+chroma_db/chroma.sqlite3
+chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/data_level0.bin
+chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/header.bin
+chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/index_metadata.pickle
+chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/length.bin
+chroma_db/8d901235-6f6c-4bd3-a45f-4170715e78a0/link_lists.bin
